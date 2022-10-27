@@ -6,7 +6,7 @@ Small-scale image classification using bird species dataset from Kaggle. Compile
 
 ## Screenshots
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+![App Screenshot](https://github.com/smp91/Bird-Classification/blob/master/Screenshots/Screenshot%202022-10-27%20104451.jpg)
 
 
 ## Environment (Google Colab)
